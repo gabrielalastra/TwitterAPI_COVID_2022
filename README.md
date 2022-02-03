@@ -13,7 +13,6 @@
       <li>Who wrote the tweets most favorited and retweeted? Are they verified accounts?</li>
       <li>Which source did they use?</li>
     </ul>
-  <li>Compare the English and German results</li>
 
   </body>
 </html>
